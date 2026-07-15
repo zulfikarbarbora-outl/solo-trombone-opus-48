@@ -1,0 +1,137 @@
+{
+  "library": "solo-trombone",
+  "displayName": "Solo Trombone",
+  "description": "Solo trombone samples — sustained tones (blow, grave, signal) + short articulations (metal, gliss). All recorded by PhonosUPF (CC0). These are articulation-based samples at the instrument's natural pitch; rootNote set to C3 (MIDI 48) as default.",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/PhonosUPF/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/solo-trombone-opus-48",
+  "branch": "main",
+  "fileCount": 10,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/",
+  "files": [
+    {
+      "file": "trombone_blow.opus",
+      "name": "trombone_blow",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_blow.opus",
+      "size": 48277,
+      "freesoundId": 491015,
+      "duration": 8.8,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_blow_2.opus",
+      "name": "trombone_blow_2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_blow_2.opus",
+      "size": 18129,
+      "freesoundId": 491137,
+      "duration": 3.4,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_blow_3.opus",
+      "name": "trombone_blow_3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_blow_3.opus",
+      "size": 20842,
+      "freesoundId": 491139,
+      "duration": 3.9,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_grave.opus",
+      "name": "trombone_grave",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_grave.opus",
+      "size": 18526,
+      "freesoundId": 491138,
+      "duration": 3.4,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_grave_5.opus",
+      "name": "trombone_grave_5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_grave_5.opus",
+      "size": 24564,
+      "freesoundId": 491145,
+      "duration": 4.8,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_grave_7.opus",
+      "name": "trombone_grave_7",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_grave_7.opus",
+      "size": 40296,
+      "freesoundId": 491147,
+      "duration": 7.5,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_grave_2.opus",
+      "name": "trombone_grave_2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_grave_2.opus",
+      "size": 35771,
+      "freesoundId": 491001,
+      "duration": 6.0,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_metal_5.opus",
+      "name": "trombone_metal_5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_metal_5.opus",
+      "size": 42129,
+      "freesoundId": 491148,
+      "duration": 5.0,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_metal_4.opus",
+      "name": "trombone_metal_4",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_metal_4.opus",
+      "size": 11381,
+      "freesoundId": 491136,
+      "duration": 2.0,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    },
+    {
+      "file": "trombone_gliss.opus",
+      "name": "trombone_gliss",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-trombone-opus-48/main/trombone_gliss.opus",
+      "size": 19997,
+      "freesoundId": 501056,
+      "duration": 3.6,
+      "rootNote": 48,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo trombone"
+    }
+  ],
+  "byNote": {
+    "48": [
+      "trombone_blow.opus",
+      "trombone_blow_2.opus",
+      "trombone_blow_3.opus",
+      "trombone_grave.opus",
+      "trombone_grave_5.opus",
+      "trombone_grave_7.opus",
+      "trombone_grave_2.opus",
+      "trombone_metal_5.opus",
+      "trombone_metal_4.opus",
+      "trombone_gliss.opus"
+    ]
+  }
+}
